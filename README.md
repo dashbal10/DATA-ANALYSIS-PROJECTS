@@ -6,6 +6,8 @@ This repository contains a collection of data analysis projects that showcase di
 
 
 # PROJECT_001
+![PROJECT_001](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/Project001.png)
+
 # ROJECT TITLE: Airline Flight Analysis Dashboard
 
 OBJECTIVE :
