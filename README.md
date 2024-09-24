@@ -7,7 +7,7 @@ This repository contains a collection of data analysis projects that showcase di
 
 # PROJECT_001
 
-# ROJECT TITLE: [High Cloud Airline Flight Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HIGH_CLOUD_AIRLINES_ANALYSIS.pbix)
+# ROJECT TITLE: [High Cloud Airline Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HIGH_CLOUD_AIRLINES_ANALYSIS.pbix)
 ![PROJECT_001](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/Project001.png)
 
 OBJECTIVE :
