@@ -6,9 +6,9 @@ This repository contains a collection of data analysis projects that showcase di
 
 
 # PROJECT_001
-![PROJECT_001](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/Project001.png)
 
-# ROJECT TITLE: Airline Flight Analysis Dashboard
+# ROJECT TITLE: [High Cloud Airline Flight Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HIGH_CLOUD_AIRLINES_ANALYSIS.pbix)
+![PROJECT_001](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/Project001.png)
 
 OBJECTIVE :
 To build an interactive dashboard that calculates important flight-related KPIs, provides insights into airline performance, and allows users to search for specific flight routes across countries and cities.
