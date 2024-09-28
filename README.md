@@ -72,8 +72,84 @@ In this project, I developed a comprehensive data analysis and visualization das
 - Created an intuitive and interactive dashboard for real-time decision-making.
 - Developed an understanding of airline performance metrics and passenger preferences.
 
----
+=========================================================================================================================================================================================================================
+# PROJECT_002
 
-This version is structured to highlight the key steps in your analysis, providing a clear narrative for your portfolio. Would you like to add or adjust anything?
+# ROJECT TITLE: [Finance Dashboard For Superstore](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/Finance%20Dashboard%20For%20Superstore.pbix)
+![PROJECT_002](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/SuperstoreDashboard.png)
+
+
+**Project Overview**
+
+This project leverages Power BI to create interactive data visualizations and dashboards for business analysis. The primary goal was to analyze datasets related to sales, finance, and profitability using a variety of visualizations and advanced features of Power BI, including DAX calculations, conditional formatting, and drillthroughs.
+
+**Tools & Platforms**
+
+    Power BI Desktop for building reports.
+    Power BI Service for sharing and collaborating.
+    DAX (Data Analysis Expressions) for calculations and data modeling.
+
+**Key Features**
+1. **Sales Analysis: Year-over-Year Comparison**
+
+    Visualization: Line and Clustered Chart
+    Description: Used DAX to compare current year vs. last year sales and calculate growth percentages. This visualization provides insights into sales trends and growth over time.
+
+2. **Data Modeling & Merging Multiple Data Sources**
+
+    Data: 2023 Worldwide Box Office and past 3 years' data.
+    Description: Imported data using Power Query Editor and created a master data table for further analysis, enabling a consolidated view of box office performance over multiple years.
+
+3. **Category-wise Yearly Analysis**
+
+    Visualization: Waterfall Chart
+    Dataset: Superstore Dataset
+    Description: A waterfall chart was built to break down sales data by category, helping stakeholders understand the financial contribution of each category year-over-year.
+
+4. **Hierarchical Location-based Sales Visualization**
+
+    Hierarchy: Location (Country > State > Region > City > Postal Code)
+    Dataset: Superstore Dataset
+    Description: Created a hierarchical structure to visualize sales performance at different geographic levels, enabling a drilldown from country to postal code.
+
+5. **Interactive Finance Dashboard**
+
+    Visualization: Clustered Column Chart
+    Feature: Bookmarks
+    Dataset: Finance Data
+    Description: Developed an interactive dashboard with bookmarks based on the date (Year, Quarter, Month), allowing users to navigate seamlessly across different time periods.
+
+6. **Profit Analysis with Drillthrough Feature**
+
+    Visualization: Donut Chart
+    Dataset: Superstore Dataset
+    Description: Built a donut chart to visualize region-wise profit, with drillthrough functionality to explore detailed profit data for the West region.
+
+7. **Conditional Formatting for Sales Metrics**
+
+    Visualization: Table Visual
+    Metrics: Sales, Profit, Quantity, Discount
+    Dataset: Superstore Dataset
+    Description: Applied conditional formatting to highlight key metrics:
+        Sales: Background color based on value.
+        Profit: Green for positive values, Red for negative.
+        Quantity: Data bars for easy comparison.
+        Discount: Font color adjustment.
+
+8. **Finance Dashboard with Navigation Cards and Slicers**
+
+    Visualization: Finance Dashboard
+    Features: Navigation Cards, Website Links, Slicers
+    Dataset: Finance Dataset
+    Description: Created a comprehensive finance dashboard that includes navigation cards, slicers for dynamic filtering, and external links for further exploration. This provides a single view of financial health.
+
+**Conclusion**
+
+The dashboard created in this project offers a dynamic and interactive way to visualize key business metrics, such as sales trends, load factor percentages, and profitability analysis. By using Power BI’s advanced features—such as drillthroughs, conditional formatting, and DAX calculations—the dashboard empowers users to dive deep into the data, identify patterns, and make informed decisions.
+
+With its user-friendly design, the dashboard consolidates multiple KPIs into a single view, providing a comprehensive snapshot of the business. The inclusion of filters and navigation cards enhances the interactivity, enabling stakeholders to customize their views based on different time periods, regions, and other critical dimensions. Ultimately, this dashboard serves as a valuable tool for driving data-driven decision-making in real-time.
+
+==========================================================================================================================================================================================================================
+
 
 ![Data Analysis](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/DALL%C2%B7E%202024-09-23%2020.12.54%20-%20A%20vibrant%20and%20visually%20appealing%20image%20representing%20data%20analysis%2C%20featuring%20charts%2C%20graphs%2C%20and%20dashboards.%20The%20image%20should%20include%20elements%20like%20ba.webp)
