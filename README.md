@@ -8,12 +8,19 @@ This repository contains a collection of data analysis projects that showcase di
 # PROJECT_001
 
 # ROJECT TITLE: [High Cloud Airline Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HIGH_CLOUD_AIRLINES_ANALYSIS.pbix)
+# Dashboard On PowerBI
 ![PROJECT_001](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/Project001.png)
 
-OBJECTIVE :
+# Dashboard On Tableau : [High Cloud Airline Analysis](https://public.tableau.com/views/PROJECT_17227854233130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![PROJECT_001.1](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HighCloud_Tableau01.png)
+
+# Search Dashboard On Tableau : [High Cloud Airline Search](https://public.tableau.com/views/PROJECT_17227854233130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![PROJECT_001.1](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HighCloud_Tableau02.png)
+
+# OBJECTIVE :
 To build an interactive dashboard that calculates important flight-related KPIs, provides insights into airline performance, and allows users to search for specific flight routes across countries and cities.
 
-DESCRIPTION :   
+# DESCRIPTION :   
 In this project, I developed a comprehensive data analysis and visualization dashboard using Power BI. The main objective was to analyze flight data and present it in a user-friendly format for stakeholders. The following key tasks were performed:
 
 1. **Date Field Calculations:**
