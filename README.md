@@ -9,13 +9,12 @@ This repository contains a collection of data analysis projects that showcase di
 ============================================================================================================================================================================================================================================================
 
 
-# ROJECT TITLE: [ E-Commerce Store Report Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/eCommerce_Sales_Report_By_Dashbal_Ambade.pbix)
+# ROJECT TITLE: [E-Commerce Store Report Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/eCommerce_Sales_Report_By_Dashbal_Ambade.pbix)
 
 # Dashboard On PowerBI
-![PROJECT_001](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/eCommerce_Sales_Report_By_Dashbal_Ambade.png)
+![PROJECT_DASHBOARD](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/eCommerce_Sales_Report_By_Dashbal_Ambade.png)
 
 # DESCRIPTION : 
-Overview:
 This E-Commerce Store Report Dashboard provides an insightful analysis of sales performance across categories, sub-categories, customers, payment modes, and regional trends. Designed to help businesses understand their sales patterns and optimize strategies for growth.
 
 **Key Features:**
@@ -33,6 +32,31 @@ Data Analytics Techniques for performance analysis
 To enable e-commerce businesses to monitor performance, identify top-performing regions and customers, and improve sales strategies.
 
 ============================================================================================================================================================================================================================================================
+
+# ROJECT TITLE: [HR Analytics Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HR_Data_Analyst_Dashbal_Ambade.pbix)
+
+# Dashboard On PowerBI
+![PROJECT_DASHBOARD](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HR_Data_Analyst.jpg)
+
+# DESCRIPTION : 
+This HR Analytics Dashboard provides a comprehensive overview of key HR metrics, including total attrition, attrition rate, employee demographics, and salary insights. The dashboard is designed to empower HR teams with data-driven decisions for workforce planning and retention strategies.
+
+**Key Features:**
+Employee Attrition Analysis: Insights by Education Field, Job Role, Age, and Salary.
+Attrition by Years at Company: Trend analysis to identify critical attrition periods.
+Gender Distribution: Comparative insights on male and female attrition rates.
+Interactive Visuals: Easy-to-read charts and graphs for quick insights.
+Metrics Covered: Total Employees, Attrition Rate, Average Age, Salary, Work Tenure, and more.
+
+**Tools Used:**
+Power BI for interactive visualizations
+Data Analytics Techniques for trend analysis
+
+**Objective:**
+To help HR professionals identify trends, reduce attrition rates, and improve employee satisfaction.
+
+============================================================================================================================================================================================================================================================
+
 
 # PROJECT_001
 
