@@ -3,7 +3,32 @@ DATA-ANALYSIS-PROJECTS
 
 Welcome to my Data Analysis Projects repository! 
 This repository contains a collection of data analysis projects that showcase different techniques and tools used to analyze, visualize, and interpret data across various domains.
+============================================================================================================================================================================================================================================================
 
+
+# ROJECT TITLE: [ E-Commerce Store Report Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/eCommerce_Sales_Report_By_Dashbal_Ambade.pbix)
+
+# Dashboard On PowerBI
+![PROJECT_001](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/eCommerce_Sales_Report_By_Dashbal_Ambade.png)
+
+# DESCRIPTION : 
+Overview:
+This E-Commerce Store Report Dashboard provides an insightful analysis of sales performance across categories, sub-categories, customers, payment modes, and regional trends. Designed to help businesses understand their sales patterns and optimize strategies for growth.
+
+**Key Features:**
+Sales Insights by Category & Sub-Category: Breakdown of sales performance across product types.
+Top 5 Customers: Identify key customers driving the most revenue.
+Regional Sales Trends: State and city-level performance visualization.
+Payment Mode Analysis: Insights into customer payment preferences.
+Time-Based Filters: View metrics by Month and Quarter.
+
+**Tools Used:**
+Power BI for dynamic and interactive visualizations
+Data Analytics Techniques for performance analysis
+
+**Objective:**
+To enable e-commerce businesses to monitor performance, identify top-performing regions and customers, and improve sales strategies.
+============================================================================================================================================================================================================================================================
 
 # PROJECT_001
 
