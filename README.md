@@ -17,6 +17,9 @@ This repository contains a collection of data analysis projects that showcase di
 # DESCRIPTION : 
 This E-Commerce Store Report Dashboard provides an insightful analysis of sales performance across categories, sub-categories, customers, payment modes, and regional trends. Designed to help businesses understand their sales patterns and optimize strategies for growth.
 
+**Objective:**
+To enable e-commerce businesses to monitor performance, identify top-performing regions and customers, and improve sales strategies.
+
 **Key Features:**
 Sales Insights by Category & Sub-Category: Breakdown of sales performance across product types.
 Top 5 Customers: Identify key customers driving the most revenue.
@@ -28,9 +31,6 @@ Time-Based Filters: View metrics by Month and Quarter.
 Power BI for dynamic and interactive visualizations
 Data Analytics Techniques for performance analysis
 
-**Objective:**
-To enable e-commerce businesses to monitor performance, identify top-performing regions and customers, and improve sales strategies.
-
 ============================================================================================================================================================================================================================================================
 
 # ROJECT TITLE: [HR Analytics Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HR_Data_Analyst_Dashbal_Ambade.pbix)
@@ -40,6 +40,9 @@ To enable e-commerce businesses to monitor performance, identify top-performing 
 
 # DESCRIPTION : 
 This HR Analytics Dashboard provides a comprehensive overview of key HR metrics, including total attrition, attrition rate, employee demographics, and salary insights. The dashboard is designed to empower HR teams with data-driven decisions for workforce planning and retention strategies.
+
+**Objective:**
+To help HR professionals identify trends, reduce attrition rates, and improve employee satisfaction.
 
 **Key Features:**
 Employee Attrition Analysis: Insights by Education Field, Job Role, Age, and Salary.
@@ -51,9 +54,6 @@ Metrics Covered: Total Employees, Attrition Rate, Average Age, Salary, Work Tenu
 **Tools Used:**
 Power BI for interactive visualizations
 Data Analytics Techniques for trend analysis
-
-**Objective:**
-To help HR professionals identify trends, reduce attrition rates, and improve employee satisfaction.
 
 ============================================================================================================================================================================================================================================================
 
