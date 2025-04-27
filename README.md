@@ -33,27 +33,35 @@ Data Analytics Techniques for performance analysis
 
 ============================================================================================================================================================================================================================================================
 
-# ROJECT TITLE: [HR Analytics Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HR_Data_Analyst_Dashbal_Ambade.pbix)
+# ROJECT TITLE: [HR Analytics Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.pbix)
 
 # Dashboard On PowerBI
-![PROJECT_DASHBOARD](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HR_Data_Analyst.jpg)
+![PROJECT_DASHBOARD](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.png)
 
 # DESCRIPTION : 
 This HR Analytics Dashboard provides a comprehensive overview of key HR metrics, including total attrition, attrition rate, employee demographics, and salary insights. The dashboard is designed to empower HR teams with data-driven decisions for workforce planning and retention strategies.
 
 **Objective:**
-To help HR professionals identify trends, reduce attrition rates, and improve employee satisfaction.
+This project involves the creation of a dynamic Healthcare Data Analysis Dashboard designed to provide insights into the health status and risk factors of a population. Built using data visualization tools (such as Power BI or Tableau), the dashboard focuses on key health indicators including diabetes, smoking, overweight statistics, exercise habits, heart attacks, and stroke occurrences.
 
 **Key Features:**
-Employee Attrition Analysis: Insights by Education Field, Job Role, Age, and Salary.
-Attrition by Years at Company: Trend analysis to identify critical attrition periods.
-Gender Distribution: Comparative insights on male and female attrition rates.
-Interactive Visuals: Easy-to-read charts and graphs for quick insights.
-Metrics Covered: Total Employees, Attrition Rate, Average Age, Salary, Work Tenure, and more.
+Summary Metrics: Displays total counts of diabetic patients, smokers, overweight individuals, and those who exercise regularly.
+Heart Attack and Stroke Analysis: Visual representation of the count and percentage of individuals affected.
+Health Risk by Age Group: Bar chart showing the distribution of health risks across different age categories (e.g., 40-49, 50-59, 60-69).
+Overweight by Race: Funnel chart displaying overweight cases by racial demographics.
+Health Risk Categorization: Categorizes patients based on health risk levels (normal, moderate high, high, critical).
+Patient Weight by Occupation Type: Analysis of total weight distribution across employment categories (unemployed, blue-collar, white-collar, others).
+Gender Filter: Interactive filter to view data specifically for male or female patients.
 
 **Tools Used:**
 Power BI for interactive visualizations
 Data Analytics Techniques for trend analysis
+
+**Impact and Insights:**
+Helps identify at-risk populations based on lifestyle and demographic factors.
+Supports healthcare organizations in designing targeted intervention strategies.
+Promotes awareness around health risk factors associated with age, occupation, and race.
+
 
 ============================================================================================================================================================================================================================================================
 
@@ -234,6 +242,30 @@ Executed an end-to-end Power BI project focused on financial analysis for a fict
 This project strengthened my ability to deliver comprehensive financial analytics using Power BI, enhancing data-driven decision-making capabilities for stakeholders.
 
 ============================================================================================================================================================================================================================================================
+# PROJECT_004
+
+# Project Title: [Healthcare Data Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/Finance_Project_003.pbix)
+![PROJECT_003](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/003.JPG)
+
+**Description:** 
+Executed an end-to-end Power BI project focused on financial analysis for a fictional Superstore dataset. Leveraged Power BI’s full capabilities to transform raw data into actionable insights and impactful visualizations.
+
+**Data Preparation:** Conducted data cleaning, shaping, and transformation to ensure high data quality.
+
+**DAX Implementation:** Utilized Data Analysis Expressions (DAX) to create calculated columns and measures, performing complex financial calculations for metrics such as profitability and trend analysis.
+
+**Financial Analysis:** Applied advanced techniques for cost, profitability, and trend analysis. Visualized key financial metrics using customized charts and dashboards.
+
+**Interactive Dashboards:** Designed interactive dashboards and reports, optimizing them for a seamless user experience.
+
+**Deployment:** Published and shared dashboards via the Power BI service, enabling team collaboration and stakeholder engagement.
+
+**Optimization and Best Practices:** Followed Power BI development best practices to optimize performance and scalability.
+
+**Conclusion**
+This project strengthened my ability to deliver comprehensive financial analytics using Power BI, enhancing data-driven decision-making capabilities for stakeholders.
+
+=========================================================================================================
 
 
 ![Data Analysis](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/DALL%C2%B7E%202024-09-23%2020.12.54%20-%20A%20vibrant%20and%20visually%20appealing%20image%20representing%20data%20analysis%2C%20featuring%20charts%2C%20graphs%2C%20and%20dashboards.%20The%20image%20should%20include%20elements%20like%20ba.webp)
