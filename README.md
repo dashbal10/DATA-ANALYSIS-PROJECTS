@@ -41,26 +41,26 @@ Data Analytics Techniques for performance analysis
 # DESCRIPTION : 
 This HR Analytics Dashboard provides a comprehensive overview of key HR metrics, including total attrition, attrition rate, employee demographics, and salary insights. The dashboard is designed to empower HR teams with data-driven decisions for workforce planning and retention strategies.
 
-**Objective:**
-This project involves the creation of a dynamic Healthcare Data Analysis Dashboard designed to provide insights into the health status and risk factors of a population. Built using data visualization tools (such as Power BI or Tableau), the dashboard focuses on key health indicators including diabetes, smoking, overweight statistics, exercise habits, heart attacks, and stroke occurrences.
-
 **Key Features:**
-Summary Metrics: Displays total counts of diabetic patients, smokers, overweight individuals, and those who exercise regularly.
-Heart Attack and Stroke Analysis: Visual representation of the count and percentage of individuals affected.
-Health Risk by Age Group: Bar chart showing the distribution of health risks across different age categories (e.g., 40-49, 50-59, 60-69).
-Overweight by Race: Funnel chart displaying overweight cases by racial demographics.
-Health Risk Categorization: Categorizes patients based on health risk levels (normal, moderate high, high, critical).
-Patient Weight by Occupation Type: Analysis of total weight distribution across employment categories (unemployed, blue-collar, white-collar, others).
-Gender Filter: Interactive filter to view data specifically for male or female patients.
+Summary Metrics: Displays total number of employees, total attrition, attrition rate, average employee age, average salary, and average years of service.
+Attrition Analysis:
+By Education Field: Pie chart breaking down attrition based on employees' educational background.
+By Years at Company: Line chart showing attrition trends over tenure with the company.
+By Salary Bands: Bar chart analyzing attrition across different salary ranges.
+By Age Groups: Bar chart highlighting attrition rates among different age categories.
+By Job Role: Detailed view of attrition counts by job role.
+Gender-wise Attrition: Breakdown of male vs female attrition numbers.
+Interactive Filters: Ability to filter data by department (Human Resources, Research & Development, Sales).
 
 **Tools Used:**
 Power BI for interactive visualizations
 Data Analytics Techniques for trend analysis
 
 **Impact and Insights:**
-Helps identify at-risk populations based on lifestyle and demographic factors.
-Supports healthcare organizations in designing targeted intervention strategies.
-Promotes awareness around health risk factors associated with age, occupation, and race.
+Identifies departments and job roles with the highest attrition rates.
+Highlights salary and experience factors contributing to employee turnover.
+Assists HR teams in creating targeted employee retention strategies.
+Helps leadership understand demographic trends impacting workforce stability.
 
 
 ============================================================================================================================================================================================================================================================
@@ -247,25 +247,30 @@ This project strengthened my ability to deliver comprehensive financial analytic
 # Project Title: [Healthcare Data Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.pbix)
 ![PROJECT_004](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.png)
 
-**Description:** 
-Executed an end-to-end Power BI project focused on financial analysis for a fictional Superstore dataset. Leveraged Power BI’s full capabilities to transform raw data into actionable insights and impactful visualizations.
+**Project Description:**
+This project involves the creation of a dynamic Healthcare Data Analysis Dashboard designed to provide insights into the health status and risk factors of a population. Built using data visualization tools (such as Power BI or Tableau), the dashboard focuses on key health indicators including diabetes, smoking, overweight statistics, exercise habits, heart attacks, and stroke occurrences.
 
-**Data Preparation:** Conducted data cleaning, shaping, and transformation to ensure high data quality.
+**Objective:**
+This project involves the creation of a dynamic Healthcare Data Analysis Dashboard designed to provide insights into the health status and risk factors of a population. Built using data visualization tools (such as Power BI or Tableau), the dashboard focuses on key health indicators including diabetes, smoking, overweight statistics, exercise habits, heart attacks, and stroke occurrences.
 
-**DAX Implementation:** Utilized Data Analysis Expressions (DAX) to create calculated columns and measures, performing complex financial calculations for metrics such as profitability and trend analysis.
+**Key Features:**
+Summary Metrics: Displays total counts of diabetic patients, smokers, overweight individuals, and those who exercise regularly.
+Heart Attack and Stroke Analysis: Visual representation of the count and percentage of individuals affected.
+Health Risk by Age Group: Bar chart showing the distribution of health risks across different age categories (e.g., 40-49, 50-59, 60-69).
+Overweight by Race: Funnel chart displaying overweight cases by racial demographics.
+Health Risk Categorization: Categorizes patients based on health risk levels (normal, moderate high, high, critical).
+Patient Weight by Occupation Type: Analysis of total weight distribution across employment categories (unemployed, blue-collar, white-collar, others).
+Gender Filter: Interactive filter to view data specifically for male or female patients.
 
-**Financial Analysis:** Applied advanced techniques for cost, profitability, and trend analysis. Visualized key financial metrics using customized charts and dashboards.
+**Tools Used:**
+Power BI for interactive visualizations
+Data Analytics Techniques for trend analysis
 
-**Interactive Dashboards:** Designed interactive dashboards and reports, optimizing them for a seamless user experience.
-
-**Deployment:** Published and shared dashboards via the Power BI service, enabling team collaboration and stakeholder engagement.
-
-**Optimization and Best Practices:** Followed Power BI development best practices to optimize performance and scalability.
-
-**Conclusion**
-This project strengthened my ability to deliver comprehensive financial analytics using Power BI, enhancing data-driven decision-making capabilities for stakeholders.
-
-=========================================================================================================
+**Impact and Insights:**
+Helps identify at-risk populations based on lifestyle and demographic factors.
+Supports healthcare organizations in designing targeted intervention strategies.
+Promotes awareness around health risk factors associated with age, occupation, and race.
+==================================================================================================================================================================================================================
 
 
 ![Data Analysis](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/DALL%C2%B7E%202024-09-23%2020.12.54%20-%20A%20vibrant%20and%20visually%20appealing%20image%20representing%20data%20analysis%2C%20featuring%20charts%2C%20graphs%2C%20and%20dashboards.%20The%20image%20should%20include%20elements%20like%20ba.webp)
