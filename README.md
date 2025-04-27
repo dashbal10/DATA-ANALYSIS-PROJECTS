@@ -270,6 +270,8 @@ Data Analytics Techniques for trend analysis
 Helps identify at-risk populations based on lifestyle and demographic factors.
 Supports healthcare organizations in designing targeted intervention strategies.
 Promotes awareness around health risk factors associated with age, occupation, and race.
+
+
 ==================================================================================================================================================================================================================
 
 
