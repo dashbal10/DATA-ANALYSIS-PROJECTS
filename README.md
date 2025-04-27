@@ -245,7 +245,7 @@ This project strengthened my ability to deliver comprehensive financial analytic
 # PROJECT_004
 
 # Project Title: [Healthcare Data Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.pbix)
-![PROJECT_003](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/SuperstoreDashboard.png)
+![PROJECT_004](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.png)
 
 **Description:** 
 Executed an end-to-end Power BI project focused on financial analysis for a fictional Superstore dataset. Leveraged Power BI’s full capabilities to transform raw data into actionable insights and impactful visualizations.
