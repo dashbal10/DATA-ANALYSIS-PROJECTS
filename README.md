@@ -36,7 +36,7 @@ Data Analytics Techniques for performance analysis
 # ROJECT TITLE: [HR Analytics Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.pbix)
 
 # Dashboard On PowerBI
-![PROJECT_DASHBOARD](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.png)
+![PROJECT_DASHBOARD](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HR_Data_Analyst.jpg)
 
 # DESCRIPTION : 
 This HR Analytics Dashboard provides a comprehensive overview of key HR metrics, including total attrition, attrition rate, employee demographics, and salary insights. The dashboard is designed to empower HR teams with data-driven decisions for workforce planning and retention strategies.
@@ -244,8 +244,8 @@ This project strengthened my ability to deliver comprehensive financial analytic
 ============================================================================================================================================================================================================================================================
 # PROJECT_004
 
-# Project Title: [Healthcare Data Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/Finance_Project_003.pbix)
-![PROJECT_003](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/003.JPG)
+# Project Title: [Healthcare Data Analysis Dashboard](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/HealthcareDashboard.pbix)
+![PROJECT_003](https://github.com/dashbal10/DATA-ANALYSIS-PROJECTS/blob/main/SuperstoreDashboard.png)
 
 **Description:** 
 Executed an end-to-end Power BI project focused on financial analysis for a fictional Superstore dataset. Leveraged Power BI’s full capabilities to transform raw data into actionable insights and impactful visualizations.
